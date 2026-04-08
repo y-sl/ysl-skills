@@ -1,0 +1,11 @@
+[[skills.config]]
+path = "E:\\codeTest\\.codex\\skills\\spreadsheet"
+enabled = true
+
+[[skills.config]]
+path = "E:\\codeTest\\.codex\\skills\\xlsx"
+enabled = true
+
+[[skills.config]]
+path = "E:\\codeTest\\.codex\\skills\\spreadsheet-formula-helper"
+enabled = true
