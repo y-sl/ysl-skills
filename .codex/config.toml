@@ -9,3 +9,39 @@ enabled = true
 [[skills.config]]
 path = "E:\\codeTest\\.codex\\skills\\spreadsheet-formula-helper"
 enabled = true
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\using-superpowers"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\test-driven-development"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\writing-plans"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\executing-plans"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\systematic-debugging"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\verification-before-completion"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\subagent-driven-development"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\dispatching-parallel-agents"
+enabled = false
+
+[[skills.config]]
+path = "C:\\Users\\10712\\.agents\\skills\\using-git-worktrees"
+enabled = false
