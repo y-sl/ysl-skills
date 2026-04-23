@@ -1,0 +1,4 @@
+interface:
+  display_name: "I18"
+  short_description: "翻译语言包并按项目模板写入 Excel"
+  default_prompt: "Use $i18 按项目语言 code 规则处理我提供的 i18n JSON 或语言 Excel，并输出可直接使用的翻译结果或更新后的工作簿。"
