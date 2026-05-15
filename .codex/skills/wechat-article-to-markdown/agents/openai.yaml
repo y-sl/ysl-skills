@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat to Markdown"
+  short_description: "Convert WeChat articles to local Markdown"
+  default_prompt: "把这个微信公众号文章链接转换成本地 Markdown，并下载图片。"
